@@ -15,11 +15,14 @@
 * Error Check 
 
      Sign up:
+     
           Confirm Password
+          
           Check existed username
 
      Login:
-     Check if username and password correct
+     
+          Check if username and password correct
 
 
 * ajax
