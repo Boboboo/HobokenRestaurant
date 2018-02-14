@@ -15,7 +15,8 @@
 * Error Check 
 
      Sign up:
-          1. Confirm Password  
+          1. Confirm Password
+          
           2. Check existed username
 
      Login:
