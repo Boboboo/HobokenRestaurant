@@ -26,18 +26,18 @@ Check if username and password correct
 
 * ajax
 
-Add review
+  Add review
 
-Nearby
+  Nearby
 
 
 * xss
 
-Input script
+  nput script
 
-e.g. `<script>alert("You are under attack")</script>`
+  e.g. `<script>alert("You are under attack")</script>`
 
-will not pop up window.
+  will not pop up window.
 
 
 
