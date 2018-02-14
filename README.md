@@ -14,21 +14,19 @@
 
 * Error Check 
 
-Sign up:
+  Sign up:
+      Confirm Password
+      Check existed username
 
-Confirm Password
-
-Check existed username
-
-Login:
-Check if username and password correct
+  Login:
+     Check if username and password correct
 
 
 * ajax
 
-  Add review
+    Add review
 
-  Nearby
+    Nearby
 
 
 * xss
