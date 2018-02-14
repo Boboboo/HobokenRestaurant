@@ -4,12 +4,12 @@
 
 * Input Code below:
 
- `./mongoimport --db final --collection restaurants --drop --file originaldata.json --jsonArray`
+    `./mongoimport --db final --collection restaurants --drop --file originaldata.json --jsonArray`
 
-* Switch to `HobokenRestaurant-Full-Stack`: Input Code below:
+* Switch to `HobokenRestaurant-Full-Stack`
 * Use command below to reprocessd data
 
-`node processdata.js`
+    `node processdata.js`
 
 
 * Error Check 
